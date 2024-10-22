@@ -16,7 +16,7 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/xcode/xcode-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
 </div>
 
 ## 🌟 Featured Projects
