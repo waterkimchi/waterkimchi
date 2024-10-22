@@ -1,5 +1,3 @@
-# Hi I'm Hyunsu Lim
-
 ![Profile views](https://komarev.com/ghpvc/?username=waterkimchi&label=Profile%20views&color=60598F&style=flat)
 
 <div class="badges-intro">
@@ -35,4 +33,3 @@ Accelerating my workflow and productivity on MacOS with the following tools and 
   ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   </td>
-  <td valign="top" width="50%">
