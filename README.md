@@ -60,11 +60,11 @@ Whenever I write documentation, I try to keep the following steps in mind to ens
   <tr>
   <td valign="top" width="50%">
 
-#### 🖥️ Windows PowerUser
+#### 🖥️ MacOS
 
-Accelerating my workflow and productivity on Windows with the following tools and configurations:
+Accelerating my workflow and productivity on MacOS with the following tools and configurations:
 
-  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+  ![Windows](https://img.shields.io/badge/-MacOS-0078D6?style=flat&logo=windows&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
   ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
   ![WSL](https://img.shields.io/badge/-WSL-0D1117?style=flat&logo=windows-subsystem-for-linux&logoColor=FCC624)
