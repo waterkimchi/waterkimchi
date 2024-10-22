@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=waterkimchi&label=Profile%20views&color=60598F&style=flat)
 
 - 💼 Contact: <a href="hyunsul2@uci.edu">email</a>
-              <a href="https://www.linkedin.com/in/hyunsul2im"linkedin></a>
+              <a href="https://www.linkedin.com/in/hyunsul2im">linkedin</a>
 
 <div class="badges-intro">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
