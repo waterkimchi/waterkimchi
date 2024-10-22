@@ -13,10 +13,10 @@ Additionally, I'm currently diving into the world of DevOps, expanding my skill 
 - 💼 Interested in working together? Reach out to me via <a href="hyunsul2@uci.edu">email.</a>
 
 <div class="badges-intro">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/xcode/xcode-ar21.svg"></code>
 </div>
 
 ## 🌟 Featured Projects
