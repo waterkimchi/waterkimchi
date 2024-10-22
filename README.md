@@ -18,7 +18,7 @@
   </p>
 </div>
 
-### <p align="center">⚙️ My development environment </p>
+### <p>⚙️ My development environment </p>
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
