@@ -2,8 +2,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=waterkimchi&label=Profile%20views&color=60598F&style=flat)
 
-💼 Contact: <a href="hyunsul2@uci.edu">email</a><a href="https://www.linkedin.com/in/hyunsul2im">linkedin</a>
-
 <div class="badges-intro">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -38,5 +36,3 @@ Accelerating my workflow and productivity on MacOS with the following tools and 
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   </td>
   <td valign="top" width="50%">
-
----
