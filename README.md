@@ -30,6 +30,5 @@ Accelerating my workflow and productivity on MacOS with the following tools and 
   ![Windows](https://img.shields.io/badge/-MacOS-0078D6?style=flat&logo=macos&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/-iTerm2-5391FE?style=flat&logo=iterm2&logoColor=white)
   ![WSL](https://img.shields.io/badge/-Xcode-0D1117?style=flat&logo=xcode&logoColor=FCC624)
-  ![VSCode](https://img.shields.io/badge/VS%20Code-badge-blue.svg?logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   </td>
