@@ -8,20 +8,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=waterkimchi&theme=tokyonight&hide_border=true" alt="waterkimchi's Streak" height="165">
   </p>
 </div>
-
-### <p>⚙️ My development environment </p>
-
-<div class="table-devenvironment">
-  <table style="font-size: 11px">
-  <tr>
-  <td valign="top" width="50%">
-
-#### 🖥️ MacOS
-
-Accelerating my workflow and productivity on MacOS with the following tools and configurations:
-
-  ![MacOS](https://img.shields.io/badge/-MacOS-0078D6?style=flat&logo=macos&logoColor=white)
-  ![iTerm2](https://img.shields.io/badge/-iTerm2-5391FE?style=flat&logo=iterm2&logoColor=white)
-  ![Xcode](https://img.shields.io/badge/-Xcode-0D1117?style=flat&logo=xcode&logoColor=FCC624)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  </td>
