@@ -27,8 +27,8 @@
 
 Accelerating my workflow and productivity on MacOS with the following tools and configurations:
 
-  ![Windows](https://img.shields.io/badge/-MacOS-0078D6?style=flat&logo=macos&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/-iTerm2-5391FE?style=flat&logo=iterm2&logoColor=white)
-  ![WSL](https://img.shields.io/badge/-Xcode-0D1117?style=flat&logo=xcode&logoColor=FCC624)
+  ![MacOS](https://img.shields.io/badge/-MacOS-0078D6?style=flat&logo=macos&logoColor=white)
+  ![iTerm2](https://img.shields.io/badge/-iTerm2-5391FE?style=flat&logo=iterm2&logoColor=white)
+  ![Xcode](https://img.shields.io/badge/-Xcode-0D1117?style=flat&logo=xcode&logoColor=FCC624)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   </td>
