@@ -1,12 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=waterkimchi&label=Profile%20views&color=60598F&style=flat)
 
-<div class="badges-intro">
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
-</div>
-
 ## 📈 My GitHub stats
 
 <div class="badges-githubstats">
